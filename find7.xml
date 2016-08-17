@@ -3,6 +3,7 @@
     <Stable>
     	<find7s>
     		<SoonUrl
+    		id="soon"
                 title="Soon..."
                 description="...we'll be having experimental OTAs here. But don't ask for ETA. :-)"></SoonUrl>
             <XDAUrl 
