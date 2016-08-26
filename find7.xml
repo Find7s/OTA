@@ -2,6 +2,10 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
+    		<InfoUrl
+                id="info"
+         	title="The next Update you'll find here"
+        	description=""></InfoUrl>
     		<Filename> </Filename>
     <XDAUrl 
 	id="xda" 
