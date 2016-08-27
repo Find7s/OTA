@@ -4,7 +4,7 @@
     	<find7s>
     		<InfoUrl
                 id="info"
-         	title="The next Update you'll find here"
+         	title="Your next Update you'll FIND(7s) here"
         	description=""></InfoUrl>
     		<Filename> </Filename>
     <XDAUrl 
@@ -16,5 +16,20 @@
 	       title="Donate to Opposeeker" 
 	       description="Donate to Opposeeker with just one click...">https://paypal.me/opposeeker</DonateUrl>
 	</find7s>
+	<find7>
+		<InfoUrl
+                id="info"
+         	title="Your next Update you'll FIND(7a) here"
+        	description=""></InfoUrl>
+    		<Filename> </Filename>
+    <XDAUrl 
+	id="xda" 
+	       title="Join Opposeeker's Thread for the FIND7" 
+	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
+	<DonateUrl 
+	       id="donate" 
+	       title="Donate to Opposeeker" 
+	       description="Donate to Opposeeker with just one click...">https://paypal.me/opposeeker</DonateUrl>
+	</find7>
 	    </Stable>
 </SlimOTA>
