@@ -5,19 +5,19 @@
     		<Filename>ResurrectionRemix-M-v5.7.3-20160908-find7s.zip</Filename>
     		<ROMUrl
                 id="info"
-         	title="08-Sep-16 LATEST ROM Update 5.7.3 w latest Security Patch _r66 (361 MB)"
-        	description="CLEAN INSTALL strongly recommended due to new security patches included!">https://www.androidfilehost.com/?fid=24591000424963906</ROMUrl>
+         	title="08-Sep-16 (NEW) ROM Update 5.7.3 w latest Security Patch _r66 (361 MB)"
+        	description="CLEAN INSTALL -> New security patches included!">https://www.androidfilehost.com/?fid=24591000424963906</ROMUrl>
     	<Rom2Url
                 id="rom2"
-                title="08-08-16 Previous ROM build 5.7.3"
+                title="Previous ROM build 5.7.3 dd 080816 (deprecated now)"
                 description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?fid=24591000424953099</Rom2Url>
         <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View the latest official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="View the last official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
         <BanksGappsUrl
             	id="gapps"
-            	title="Download BaNkS latest GApps (now significant smaller (~280MB)"
+            	title="BaNkS GApps (now significant smaller (~280MB)"
             	description="Depending on your speed this may take a while...pls be patient">https://www.androidfilehost.com/?fid=24694152805484923</BanksGappsUrl>
     <XDAUrl 
 	id="xda" 
@@ -25,8 +25,8 @@
 	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
 	<DonateUrl 
 	       id="donate" 
-	       title="Donate to Opposeeker" 
-	       description="Donating an alcohol-free beer to Opposeeker with just one click?">https://paypal.me/opposeeker</DonateUrl>
+	       title="Donating to Opposeeker" 
+	       description="...an alcohol-free beer? Here you go!">https://paypal.me/opposeeker</DonateUrl>
 	</find7s>
    </Stable>
 </SlimOTA>
