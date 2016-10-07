@@ -7,13 +7,11 @@
                 id="info"
          	title="07-Oct-16 SecUpdate 5.7.4_r72 (362 MB)"
         	description="">https://www.androidfilehost.com/?fid=457095661767100047</ROMUrl>
-	
 	<InfoUrl
                 id="info2"
                 title="Clean Flash recommended due to SecPatch!"
-                description="">/InfoUrl>	
-		
-    	<Rom2Url
+                description=""></InfoUrl>
+   	<Rom2Url
                 id="rom2"
                 title="Mirror Download for 5.7.4"
                 description="If AFH is laggy - here's an alternative">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.4_r72-20161007-find7s.zip</Rom2Url>
