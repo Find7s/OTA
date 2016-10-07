@@ -2,15 +2,21 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-    		<Filename>ResurrectionRemix-M-v5.7.4-20160921-find7s.zip</Filename>
+    		<Filename>ResurrectionRemix-M-v5.7.4_r72-20160921-find7s.zip</Filename>
     		<ROMUrl
                 id="info"
-         	title="22-Sep-16 ROM Update 5.7.4 (362 MB)"
-        	description="">https://www.androidfilehost.com/?fid=385026487222272046</ROMUrl>
+         	title="07-Oct-16 SecUpdate 5.7.4_r72 (362 MB)"
+        	description="">https://www.androidfilehost.com/?fid=457095661767100047</ROMUrl>
+	
+	<InfoUrl
+                id="info2"
+                title="Clean Flash recommended due to SecPatch!"
+                description="">/InfoUrl>	
+		
     	<Rom2Url
                 id="rom2"
                 title="Mirror Download for 5.7.4"
-                description="If AFH is laggy - here's an alternative">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.4-20160921-find7s.zip</Rom2Url>
+                description="If AFH is laggy - here's an alternative">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.4_r72-20161007-find7s.zip</Rom2Url>
         <ChangelogUrl
                 id="changelog"
                 title="Changelog 5.7.4"
