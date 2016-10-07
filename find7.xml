@@ -32,5 +32,37 @@
 	       title="Donating to Opposeeker" 
 	       description="...an alcohol-free beer? Here you go!">https://paypal.me/opposeeker</DonateUrl>
 	</find7s>
+	    
+<find7>
+    		<Filename>ResurrectionRemix-M-v5.7.4_r72-20161007-find7a.zip</Filename>
+    		<ROMUrl
+                id="info"
+         	title="07-Oct-16 SecUpdate 5.7.4_r72 (359 MB)"
+        	description="">https://www.androidfilehost.com/?fid=457095661767100053</ROMUrl>
+	<InfoUrl
+                id="info2"
+                title="Clean Flash recommended due to SecPatch!"
+                description=""></InfoUrl>
+   	<Rom2Url
+                id="rom2"
+                title="Mirror Download for 5.7.4"
+                description="If AFH is laggy - here's an alternative">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7a/ResurrectionRemix-M-v5.7.4_r72-20161007-find7a.zip</Rom2Url>
+        <ChangelogUrl
+                id="changelog"
+                title="Changelog 5.7.4"
+                description="View the last official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+        <BanksGappsUrl
+            	id="gapps"
+            	title="BaNkS GApps"
+            	description="Depending on your speed this may take a while...pls be patient">https://www.androidfilehost.com/?fid=312968872162492431</BanksGappsUrl>
+    <XDAUrl 
+	id="xda" 
+	       title="Join Opposeeker's Thread for the FIND7" 
+	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
+	<DonateUrl 
+	       id="donate" 
+	       title="Donating to Opposeeker" 
+	       description="...an alcohol-free beer? Here you go!">https://paypal.me/opposeeker</DonateUrl>
+	</find7>
    </Stable>
 </SlimOTA>
