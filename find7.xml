@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-    		<Filename>ResurrectionRemix-M-v5.7.4_r72-20160921-find7s.zip</Filename>
+    		<Filename>ResurrectionRemix-M-v5.7.4_r72-20161007_r72-find7s.zip</Filename>
     		<ROMUrl
                 id="info"
          	title="07-Oct-16 SecUpdate 5.7.4_r72 (362 MB)"
